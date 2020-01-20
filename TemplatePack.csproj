@@ -8,6 +8,7 @@
     <Authors>Modern.Forms Templates</Authors>
     <Description>Templates to use when creating a Modern.Forms application.</Description>
     <PackageTags>dotnet-new;templates;modern;forms</PackageTags>
+    <PackageOutputPath>nupkg</PackageOutputPath>
 
     <TargetFramework>netstandard2.0</TargetFramework>
 
