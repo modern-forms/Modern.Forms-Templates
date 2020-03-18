@@ -9,6 +9,8 @@
     <Description>Templates to use when creating a Modern.Forms application.</Description>
     <PackageTags>dotnet-new;templates;modern;forms</PackageTags>
     <PackageOutputPath>nupkg</PackageOutputPath>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/modern-forms/Modern.Forms-Templates</PackageProjectUrl>
 
     <TargetFramework>netstandard2.0</TargetFramework>
 
