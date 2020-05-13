@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Modern.Forms" Version="0.1.0" />
+    <PackageReference Include="Modern.Forms" Version="0.2.0" />
   </ItemGroup>
 
 </Project>
