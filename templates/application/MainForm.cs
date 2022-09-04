@@ -17,7 +17,7 @@ namespace Company.ModernFormsApplication1
 
         private void ButtonClicked(object sender, EventArgs e)
         {
-            label.Text = $"Clicked {counter++} times!";
+            label.Text = $"Clicked {++counter} times!";
         }
     }
 }
