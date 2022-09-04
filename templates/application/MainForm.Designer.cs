@@ -5,12 +5,12 @@ using Modern.Forms;
 
 namespace Company.ModernFormsApplication1
 {
-    public partial class MainForm : Form
+    partial class MainForm
     {
         private Button button;
         private Label label;
 
-        public void InitializeComponent()
+        private void InitializeComponent()
         {
             Text = "My Application";
 
