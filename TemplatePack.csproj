@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageType>Template</PackageType>
-    <PackageVersion>0.2.0</PackageVersion>
+    <PackageVersion>0.3.0</PackageVersion>
     <PackageId>ModernForms.Templates</PackageId>
     <Title>Modern.Forms Templates</Title>
     <Authors>Modern.Forms Templates</Authors>

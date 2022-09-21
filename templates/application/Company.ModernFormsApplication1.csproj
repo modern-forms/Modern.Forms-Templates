@@ -2,12 +2,12 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Modern.Forms" Version="0.2.0" />
+    <PackageReference Include="Modern.Forms" Version="0.3.0" />
   </ItemGroup>
 
 </Project>
